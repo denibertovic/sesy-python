@@ -1,0 +1,1 @@
+"""SESY SDK tests."""
